@@ -1,5 +1,7 @@
 ![UV Carry](assets/hero/uv-carry-hero.png)
 
+https://github.com/user-attachments/assets/d9839719-f5ef-4acb-8aa4-bfb528ecc922
+
 # UV Carry
 
 **Move UVs. Carry Textures.**
@@ -7,12 +9,6 @@
 [English](README.md) · Português (Brasil)
 
 Um add-on do Blender 5.1 que mantém a textura junto dos UVs. Mova, gire, escale ou empacote ilhas UV com as ferramentas do próprio Blender, aperte `Ctrl+Enter`, e todas as texturas dos materiais acompanham. Junte as ilhas de vários materiais em um único atlas em um passo.
-
-<p align="center">
-  <a href="assets/store/uv-carry-store.mp4"><img src="assets/store/featured.png" alt="UV Carry: 13 materiais e 32 texturas em um atlas" width="100%"></a>
-  <br>
-  <a href="assets/store/uv-carry-store.mp4"><b>▶ Assista ao vídeo</b></a> (77 segundos)
-</p>
 
 - **Suas ferramentas, seus atalhos.** G, R, S e UV > Pack Islands continuam do Blender. Nada é escrito enquanto você move; o trabalho na textura acontece uma vez, no `Ctrl+Enter`.
 - **Todos os mapas de uma vez.** Cor, canais ORM empacotados, alpha e normal maps em tangent space, que mantêm o relevo quando a ilha gira.
@@ -23,18 +19,14 @@ Um add-on do Blender 5.1 que mantém a textura junto dos UVs. Mova, gire, escale
 
 ## Em números
 
-Oito objetos, levados para um atlas com um `Ctrl+Enter`:
+Um personagem em kitbash de 7 materiais, levado para um atlas com um `Ctrl+Enter`:
 
 | | Antes | Depois |
 | --- | --- | --- |
-| Materiais | 13 | 1 |
-| Texturas | 32 | 3 |
-| Memória de textura | 512 MB | 96 MB |
-| Ilhas UV levadas | | 1.715 |
-
-![O editor UV e o painel do UV Carry depois do carry](assets/store/gallery_panel.png)
-
-![O atlas: cor, ORM e normal](assets/store/gallery_atlas.png)
+| Materiais | 7 | 1 |
+| Texturas | 22 | 3 |
+| Memória de textura | 677 MB | 128 MB |
+| Ilhas UV levadas | | 1.802 |
 
 ## Como funciona
 
@@ -68,9 +60,5 @@ O preço Brasil é para compras faturadas no Brasil. Um assento é uma pessoa, n
 ## Requisitos
 
 Blender 5.1. Testado com o Blender 5.1.1 no Windows 11.
-
-## Créditos
-
-Os objetos das imagens e do vídeo são do Poly Haven (CC0): Television 01, Boombox, Camera 01, Alarm Clock 01, Rubber Duck Toy, Ukulele 01, Food Apple 01 e Potted Plant 04.
 
 Copyright (C) 2026 Gustavo Banck.

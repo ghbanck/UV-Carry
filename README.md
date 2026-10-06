@@ -1,5 +1,7 @@
 ![UV Carry](assets/hero/uv-carry-hero.png)
 
+https://github.com/user-attachments/assets/814005e5-9117-4d86-b45c-b37a2d7fc038
+
 # UV Carry
 
 **Move UVs. Carry Textures.**
@@ -7,12 +9,6 @@
 English · [Português (Brasil)](README.pt-BR.md)
 
 A Blender 5.1 add-on that keeps the texture with the UVs. Move, rotate, scale or pack UV islands with Blender's own tools, press `Ctrl+Enter`, and every texture of their materials follows them. Merge the islands of many materials into one atlas in a single step.
-
-<p align="center">
-  <a href="assets/store/uv-carry-store.mp4"><img src="assets/store/featured.png" alt="UV Carry: 13 materials and 32 textures into one atlas" width="100%"></a>
-  <br>
-  <a href="assets/store/uv-carry-store.mp4"><b>▶ Watch the video</b></a> (77 seconds)
-</p>
 
 - **Your tools, your shortcuts.** G, R, S and UV > Pack Islands stay Blender's. Nothing is written while you move; the texture work happens once, at `Ctrl+Enter`.
 - **Every map at once.** Colour, packed ORM channels, alpha and tangent-space normal maps, which keep their relief when an island turns.
@@ -23,18 +19,14 @@ A Blender 5.1 add-on that keeps the texture with the UVs. Move, rotate, scale or
 
 ## In numbers
 
-Eight props, carried into one atlas with one `Ctrl+Enter`:
+A kitbashed character of 7 materials, carried into one atlas with one `Ctrl+Enter`:
 
 | | Before | After |
 | --- | --- | --- |
-| Materials | 13 | 1 |
-| Textures | 32 | 3 |
-| Texture memory | 512 MB | 96 MB |
-| UV islands carried | | 1,715 |
-
-![The UV editor and the UV Carry panel after the carry](assets/store/gallery_panel.png)
-
-![The atlas: colour, ORM and normal](assets/store/gallery_atlas.png)
+| Materials | 7 | 1 |
+| Textures | 22 | 3 |
+| Texture memory | 677 MB | 128 MB |
+| UV islands carried | | 1,802 |
 
 ## How it works
 
@@ -68,9 +60,5 @@ A seat is a person, not a machine: no activation, no license server, no hardware
 ## Requirements
 
 Blender 5.1. Tested with Blender 5.1.1 on Windows 11.
-
-## Credits
-
-The props in the images and the video are from Poly Haven (CC0): Television 01, Boombox, Camera 01, Alarm Clock 01, Rubber Duck Toy, Ukulele 01, Food Apple 01 and Potted Plant 04.
 
 Copyright (C) 2026 Gustavo Banck.
