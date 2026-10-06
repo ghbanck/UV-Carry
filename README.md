@@ -10,6 +10,10 @@ English · [Português (Brasil)](README.pt-BR.md)
 
 A Blender 5.1 add-on that keeps the texture with the UVs. Move, rotate, scale or pack UV islands with Blender's own tools, press `Ctrl+Enter`, and every texture of their materials follows them. Merge the islands of many materials into one atlas in a single step.
 
+<p>
+  <a href="https://gustavohenriquebanck.hotmart.host/uv-carry"><img alt="Buy UV Carry in Brazil" src="https://img.shields.io/badge/Buy_in_Brazil-Hotmart-FE6C5B?style=for-the-badge&labelColor=1DCEE5"></a>
+</p>
+
 - **Your tools, your shortcuts.** G, R, S and UV > Pack Islands stay Blender's. Nothing is written while you move; the texture work happens once, at `Ctrl+Enter`.
 - **Every map at once.** Colour, packed ORM channels, alpha and tangent-space normal maps, which keep their relief when an island turns.
 - **Merge materials into one atlas.** Set a material as Carry Into, pack the islands and press `Ctrl+Enter`: every channel of the atlas takes what each island's own material gives it.
@@ -56,6 +60,8 @@ Every tier is the same add-on with every feature, and includes lifetime updates.
 | Production | up to 50 | US$ 399 |
 
 A tier is the price for a team of its size, and pays for every update, support and the official build. It does not limit what the GPL lets anyone do with the code: there is no activation, no license server and no hardware lock, and studios buy the tier that covers their artists, on trust. Each release is a versioned zip with its SHA-256, so a studio can pin a version in its own pipeline and roll back.
+
+Coming soon to Blender Market (Superhive), in US dollars. Buying from Brazil? **[UV Carry on Hotmart](https://gustavohenriquebanck.hotmart.host/uv-carry)**, in reais.
 
 ## Requirements
 

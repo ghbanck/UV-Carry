@@ -10,6 +10,10 @@ https://github.com/user-attachments/assets/d9839719-f5ef-4acb-8aa4-bfb528ecc922
 
 Um add-on do Blender 5.1 que mantém a textura junto dos UVs. Mova, gire, escale ou empacote ilhas UV com as ferramentas do próprio Blender, aperte `Ctrl+Enter`, e todas as texturas dos materiais acompanham. Junte as ilhas de vários materiais em um único atlas em um passo.
 
+<p>
+  <a href="https://gustavohenriquebanck.hotmart.host/uv-carry"><img alt="Comprar UV Carry" src="https://img.shields.io/badge/Comprar_UV_Carry-R%24_59%2C90-FE6C5B?style=for-the-badge&labelColor=1DCEE5"></a>
+</p>
+
 - **Suas ferramentas, seus atalhos.** G, R, S e UV > Pack Islands continuam do Blender. Nada é escrito enquanto você move; o trabalho na textura acontece uma vez, no `Ctrl+Enter`.
 - **Todos os mapas de uma vez.** Cor, canais ORM empacotados, alpha e normal maps em tangent space, que mantêm o relevo quando a ilha gira.
 - **Junte materiais em um atlas.** Defina um material como Carry Into, empacote as ilhas e aperte `Ctrl+Enter`: cada canal do atlas recebe o que o material de cada ilha dá a ele.
@@ -56,6 +60,8 @@ Toda faixa é o mesmo add-on, com todos os recursos, e inclui atualizações par
 | Production | até 50 | US$ 399 | R$ 1.499,90 |
 
 O preço Brasil é para compras faturadas no Brasil. Cada faixa é o preço para uma equipe do seu tamanho, e paga todas as atualizações, o suporte e o build oficial. Ela não limita o que a GPL deixa qualquer um fazer com o código: não há ativação, servidor de licenças nem trava de hardware, e os estúdios compram a faixa que cobre os seus artistas, na confiança. Cada versão é um zip versionado com o seu SHA-256, para um estúdio fixar a versão no próprio pipeline e voltar atrás.
+
+**[Comprar na Hotmart](https://gustavohenriquebanck.hotmart.host/uv-carry)**, em reais. Em breve também na Blender Market (Superhive), em dólar.
 
 ## Requisitos
 
