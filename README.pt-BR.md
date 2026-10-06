@@ -44,21 +44,25 @@ O UV Carry guarda onde as ilhas começaram, deixa o Blender movê-las como sempr
 | Normal maps em tangent space | | ✓ |
 | Carry Into: vários materiais em um atlas | | ✓ |
 
-## Licenças
+## Preços
 
-Em breve. Toda licença é o mesmo add-on, com todos os recursos, e inclui atualizações para sempre.
+Toda faixa é o mesmo add-on, com todos os recursos, e inclui atualizações para sempre.
 
-| Licença | Artistas | Internacional | Brasil |
+| Faixa | Artistas | Internacional | Brasil |
 | --- | --- | --- | --- |
 | Individual | 1 | US$ 39 | R$ 59,90 |
 | Small Studio | até 5 | US$ 99 | R$ 249,90 |
 | Studio | até 15 | US$ 199 | R$ 599,90 |
 | Production | até 50 | US$ 399 | R$ 1.499,90 |
 
-O preço Brasil é para compras faturadas no Brasil. Um assento é uma pessoa, não uma máquina: sem ativação, sem servidor de licenças, sem trava de hardware. Cada versão é um zip versionado com o seu SHA-256, para um estúdio fixar a versão no próprio pipeline e voltar atrás. O UV Carry é licenciado sob a GPL, versão 3 ou posterior.
+O preço Brasil é para compras faturadas no Brasil. Cada faixa é o preço para uma equipe do seu tamanho, e paga todas as atualizações, o suporte e o build oficial. Ela não limita o que a GPL deixa qualquer um fazer com o código: não há ativação, servidor de licenças nem trava de hardware, e os estúdios compram a faixa que cobre os seus artistas, na confiança. Cada versão é um zip versionado com o seu SHA-256, para um estúdio fixar a versão no próprio pipeline e voltar atrás.
 
 ## Requisitos
 
 Blender 5.1. Testado com o Blender 5.1.1 no Windows 11.
 
-Copyright (C) 2026 Gustavo Banck.
+## Licença
+
+Copyright (C) 2026 Gustavo Banck. O código do add-on é licenciado sob a GNU General Public License, versão 3 ou qualquer versão posterior, e vem junto com ele.
+
+A GPL cobre o código, não os nomes: "UV Carry", "UV Carry Lite" e o logo do UV Carry são do autor. Uma cópia modificada ou redistribuída mantém todos os direitos que a GPL dá, mas não pode usar esses nomes nem o logo.

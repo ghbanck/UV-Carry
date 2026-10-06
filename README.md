@@ -44,21 +44,25 @@ UV Carry remembers where the islands started, lets Blender move them as it alway
 | Tangent-space normal maps | | ✓ |
 | Carry Into: many materials into one atlas | | ✓ |
 
-## Licenses
+## Pricing
 
-Coming soon. Every license is the same add-on with every feature, and includes lifetime updates.
+Every tier is the same add-on with every feature, and includes lifetime updates.
 
-| License | Artists | Price |
+| Tier | Artists | Price |
 | --- | --- | --- |
 | Individual | 1 | US$ 39 |
 | Small Studio | up to 5 | US$ 99 |
 | Studio | up to 15 | US$ 199 |
 | Production | up to 50 | US$ 399 |
 
-A seat is a person, not a machine: no activation, no license server, no hardware lock. Each release is a versioned zip with its SHA-256, so a studio can pin a version in its own pipeline and roll back. UV Carry is licensed under the GPL, version 3 or later.
+A tier is the price for a team of its size, and pays for every update, support and the official build. It does not limit what the GPL lets anyone do with the code: there is no activation, no license server and no hardware lock, and studios buy the tier that covers their artists, on trust. Each release is a versioned zip with its SHA-256, so a studio can pin a version in its own pipeline and roll back.
 
 ## Requirements
 
 Blender 5.1. Tested with Blender 5.1.1 on Windows 11.
 
-Copyright (C) 2026 Gustavo Banck.
+## License
+
+Copyright (C) 2026 Gustavo Banck. The add-on's code is licensed under the GNU General Public License, version 3 or any later version, and comes with it.
+
+The GPL covers the code, not the names: "UV Carry", "UV Carry Lite" and the UV Carry logo are the author's. A modified or redistributed copy keeps every right the GPL gives, but must not be called by these names or carry the logo.
